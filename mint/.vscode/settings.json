@@ -1,0 +1,26 @@
+{
+    "files.associations": {
+        "stdio.h": "c",
+        "mint.h": "c",
+        "typeinfo": "cpp",
+        "optimizer.h": "c"
+    },
+    "C_Cpp.errorSquiggles": "Disabled",
+    "terminal.integrated.shell.windows": "powershell.exe",
+    "cSpell.ignoreWords": [
+        "casemap",
+        "dword",
+        "efunc",
+        "includelib",
+        "mainf",
+        "masm",
+        "msvcrt",
+        "parav",
+        "printf",
+        "proto",
+        "sbyte",
+        "scanf",
+        "stdcall",
+        "vararg"
+    ]
+}

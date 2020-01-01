@@ -1,0 +1,11 @@
+char gets1(char b){
+    var=b+2;
+    return (c);
+}
+void main(){
+   char c
+   scanf(c);
+   c = gets1(c);
+   printf(c);
+}
+char var;

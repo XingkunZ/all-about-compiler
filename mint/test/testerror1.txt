@@ -1,0 +1,11 @@
+void func(int a,int b){
+    printf(a+b);
+}
+void main(){
+   int m;
+   char d;
+   d=m;
+   m=2;
+   func(1);
+   printf(m);
+}
